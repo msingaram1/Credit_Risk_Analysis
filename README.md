@@ -25,10 +25,10 @@ Accuracy is at 52.9%, Precision is at 99%, and recall is at 45%.
 ![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/combo.PNG)
 Accuracy is at 61.9%, Precision is at 99%, and recall is at 54%.
 # Balanced Random Forest Classifier
-![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/random forest.PNG)
+![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/random%20forest.PNG)
 Accuracy is at 78.7%, Precision is at 99%, and recall is at 91%.
 # Easy Ensemble AdaBoost Classifier
- ![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/easy ensemble.PNG)
+ ![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/easy%20ensemble.PNG)
  Accuracy is at 93.2%, Precision is at 99%, and recall is at 91%.
 
 

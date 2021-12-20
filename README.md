@@ -13,7 +13,7 @@ After evaluating all these options we will make a recommendation on which method
 
 ### Results
 # RandomOverSampler Model
-
+![image](https://github.com/msingaram1/MechaCar_Statistical_Analysis/blob/main/resources/images/Deliverable%201.PNG)
 # SMOTE model  
 
 # Undersampling

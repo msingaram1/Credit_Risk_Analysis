@@ -1,6 +1,6 @@
-# Credit_Risk_Analysis
+### Credit_Risk_Analysis
 
-### Analysis Overview
+## Analysis Overview
 Several machine learning models were analyzed to evaluate credit risk. 
 Specifically, we
 
@@ -11,7 +11,7 @@ Specifically, we
 
 After evaluating all these options we will make a recommendation on which method to use. 
 
-### Results
+## Results
 # RandomOverSampler Model
 ![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/oversampling.PNG)
 Accuracy is at 62.9%, Precision is at 99%, and recall is at 68%.
@@ -32,5 +32,5 @@ Accuracy is at 78.7%, Precision is at 99%, and recall is at 91%.
  Accuracy is at 93.2%, Precision is at 99%, and recall is at 91%.
 
 
-### Summary
+## Summary
 All models don't show great precision in determining if credit risk is high. However, the ensemble models brought a lot more improvement specially on the sensitivity of the high risk credits. The EasyEnsembleClassifier model shows a recall of 92% indiciating that it detects most high risk credit. This also implies there is low precision. Compared to the other models, I think the easy ensemble provides the best balance of precision and recall scores. 

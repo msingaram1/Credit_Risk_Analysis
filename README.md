@@ -15,13 +15,13 @@ After evaluating all these options we will make a recommendation on which method
 # RandomOverSampler Model
 ![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/oversampling.PNG)
 # SMOTE model  
-
+![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/smote.PNG)
 # Undersampling
-
+![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/under.PNG)
 # Combination
-
+![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/combo.PNG)
 # Balanced Random Forest Classifier
-
+![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/"random forest".PNG)
 # Easy Ensemble AdaBoost Classifier
- 
+ ![image](https://github.com/msingaram1/Credit_Risk_Analysis/blob/main/resources/"easy ensemble".PNG)
 
